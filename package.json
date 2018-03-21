@@ -1,0 +1,13 @@
+{
+  "name": "lions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Yami0602 <ysagales@techlaunch.io>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "lodash": "^4.17.5",
+    "morgan": "^1.9.0"
+  }
+}
